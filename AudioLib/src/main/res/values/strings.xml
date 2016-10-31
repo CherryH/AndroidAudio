@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioLib</string>
+    <string name="audio_record_normal">录制回答</string>
+    <string name="audio_record_start">松开结束</string>
+    <string name="audio_record_end">确认发送</string>
+    <string name="audio_record_clear">重录</string>
+</resources>
